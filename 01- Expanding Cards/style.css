@@ -72,7 +72,9 @@ body{
     left: 30px;
   }
   .panel h3{
-    bottom: 120px;
-    left: 30px;
+    top: 40vh;
+  }
+  .panel p{
+    display: none;
   }
 }
