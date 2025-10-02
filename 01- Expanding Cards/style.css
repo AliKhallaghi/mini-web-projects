@@ -73,8 +73,16 @@ body{
   }
   .panel h3{
     top: 40vh;
+    left: 10vh;
   }
   .panel p{
     display: none;
   }
+  .panel:nth-of-type(3){
+    display: none;
+  }
+    .panel:nth-of-type(5){
+    display: none;
+  }
+
 }
